@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Scribe
-- 🌱 I’m currently learning Docker, Cloud-related technologies, machine learning, AI, C++, Rust, Python, Swift, Linux-related things, etc. 
+- 🌱 I’m currently learning Docker, Cloud-related technologies, machine learning, AI, C++, Rust, Python, Swift, Linux-related things, Golang, etc. 
 - 👯 I’m looking to collaborate on various projects, audio and music-related stuff especially, but I am open to everything,feel free to reach out to me!
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about music

@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**henrikth93/henrikth93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Scribe
 - 🌱 I’m currently learning Docker, Cloud-related technologies, C++, Rust, Python, Swift, Linux 
 - 👯 I’m looking to collaborate on ...
@@ -13,5 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![An image of @henrikth93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/henrikth93)](https://holopin.io/@henrikth93)

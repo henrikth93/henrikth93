@@ -6,7 +6,5 @@
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about music
 - 📫 How to reach me: henrikthomasson93@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 [![An image of @henrikth93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/henrikth93)](https://holopin.io/@henrikth93)
